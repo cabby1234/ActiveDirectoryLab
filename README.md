@@ -16,7 +16,7 @@ This project revolves around the exploration and exploitation of a WPA2 network,
 <h2>Lab walk-through:</h2>
 
 <p align="center">
-Kill processes and put our WIFI interface in monitor mode: <br/>
+ Kill processes and put our WIFI interface in monitor mode: <br/>
 <img align="center" alt="Coding" width="400" src="https://github.com/cabby1234/HackingWPA2Lab/assets/131496256/43d47054-3cf3-46a5-9742-29b7ee584f17">
 <br>
 <br>
@@ -25,12 +25,13 @@ Kill processes and put our WIFI interface in monitor mode: <br/>
 <br>
 <br>
 <br>
-The capture of our WPA handshake pulled up in Wireshark:
+ The capture of our WPA handshake pulled up in Wireshark:
 <br>
 <img align="center" alt="Coding" width="400" src="https://github.com/cabby1234/HackingWPA2Lab/assets/131496256/bb486f75-80e9-466b-afb4-bba0030f9206">
 <br>
 <br>
 <br>
+ Aircrack-ng command to obtain the wireless keys, using the rockyou.txt wordlist:
 <img align="center" alt="Coding" width="400" src="https://github.com/cabby1234/HackingWPA2Lab/assets/131496256/0a4f0847-8700-46ac-bb0e-047f1191e6f7">
 
 
