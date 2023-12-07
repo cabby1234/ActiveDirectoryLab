@@ -29,8 +29,3 @@ Launch the utility: <br/>
 @@ text in purple (and bold)@@
 ```
 --!>
-![WHL2](https://github.com/cabby1234/HackingWPA2Lab/assets/131496256/478d2228-1ee3-4eff-af2f-27d767eaa3c4)
-![WHL3](https://github.com/cabby1234/HackingWPA2Lab/assets/131496256/a240fbca-70ac-4c6f-8412-1d137722017d)
-![WHL4](https://github.com/cabby1234/HackingWPA2Lab/assets/131496256/b365f16b-2379-4389-8093-e8c072ed20ed)
-![WHL5](https://github.com/cabby1234/HackingWPA2Lab/assets/131496256/90daf1b9-d5f1-4bcb-9301-33862e20c669)
-![WHL6](https://github.com/cabby1234/HackingWPA2Lab/assets/131496256/49a1cd95-f763-4f6b-b119-629515505c27)
