@@ -17,7 +17,7 @@ This project revolves around the exploration and exploitation of a WPA2 network,
 
 <p align="center">
 Launch the utility: <br/>
-![WHL2](https://github.com/cabby1234/HackingWPA2Lab/assets/131496256/13b32bda-baf5-436b-9d63-4c1aa71adb53)<br />
+![13b32bda-baf5-436b-9d63-4c1aa71adb53](https://github.com/cabby1234/HackingWPA2Lab/assets/131496256/5cd23c3c-c39c-490b-b1fa-b89b6de036d6)
 
 <!--
  ```diff
