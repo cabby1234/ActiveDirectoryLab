@@ -17,6 +17,7 @@ This project revolves around the exploration and exploitation of a WPA2 network,
 
 <p align="center">
 Launch the utility: <br/>
+img = WHL2.png
 
 
 <!--
