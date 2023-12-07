@@ -17,7 +17,8 @@ This project revolves around the exploration and exploitation of a WPA2 network,
 
 <p align="center">
 Launch the utility: <br/>
-img = WHL2.png
+(img align="center" alt="Coding" width="400" src="![WHL2](https://github.com/cabby1234/HackingWPA2Lab/assets/131496256/43d47054-3cf3-46a5-9742-29b7ee584f17)
+")
 
 
 <!--
@@ -29,3 +30,4 @@ img = WHL2.png
 @@ text in purple (and bold)@@
 ```
 --!>
+![WHL2](https://github.com/cabby1234/HackingWPA2Lab/assets/131496256/43d47054-3cf3-46a5-9742-29b7ee584f17)
