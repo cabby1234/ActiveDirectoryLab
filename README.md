@@ -1,9 +1,8 @@
 <h1>Hacking WPA/WPA2</h1>
 
 <h2>Description</h2>
-Project consists of exploiting a WPA2 network using the the aircrack-ng toolset. This is in preparation for the OWSP exam I plan on taking in the next couple of weeks.
+This project revolves around the exploration and exploitation of a WPA2 network, employing the capabilities of the aircrack-ng toolset. I am diving into the intricacies of WPA2 security protocols, aiming to gain insights and hands-on experience in identifying potential vulnerabilities and weaknesses within the network infrastructure. The aircrack-ng toolset, known for its effectiveness in assessing and penetrating wireless security, is instrumental in this pursuit.
 <br />
-
 
 <h2>Languages and Utilities Used</h2>
 
