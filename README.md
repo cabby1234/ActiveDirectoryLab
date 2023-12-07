@@ -17,7 +17,7 @@ This project revolves around the exploration and exploitation of a WPA2 network,
 
 <p align="left">
 Launch the utility: <br/>
-<img src=""\Users\030433882\Downloads\WHL 1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="WHL2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <!--
