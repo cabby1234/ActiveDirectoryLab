@@ -16,7 +16,7 @@ This project revolves around the exploration and exploitation of a WPA2 network,
 <h2>Lab walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Kill processes and put our WIFI interface in monitor mode: <br/>
 <img align="center" alt="Coding" width="400" src="https://github.com/cabby1234/HackingWPA2Lab/assets/131496256/43d47054-3cf3-46a5-9742-29b7ee584f17">
 
 
