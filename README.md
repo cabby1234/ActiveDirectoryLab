@@ -11,7 +11,7 @@ This project revolves around the exploration and exploitation of a WPA2 network,
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Kali Linux virtual machine ran on VMware.</b> (21H2)
 
 <h2>Program walk-through:</h2>
 
