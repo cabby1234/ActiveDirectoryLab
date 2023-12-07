@@ -20,7 +20,7 @@ Kill processes and put our WIFI interface in monitor mode: <br/>
 <img align="center" alt="Coding" width="400" src="https://github.com/cabby1234/HackingWPA2Lab/assets/131496256/43d47054-3cf3-46a5-9742-29b7ee584f17">
 <br>
 <br>
- 
+ Perform our reconiassance on the target and capture the WPA handshake, deauthenticate if needed:
 <img align="center" alt="Coding" width="400" src="https://github.com/cabby1234/HackingWPA2Lab/assets/131496256/de076149-e800-4c3c-9138-876a1df4bf30">
 
 <!--
