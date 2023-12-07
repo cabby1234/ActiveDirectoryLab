@@ -36,7 +36,7 @@ This project revolves around the exploration and exploitation of a WPA2 network,
 <img align="center" alt="Coding" width="400" src="https://github.com/cabby1234/HackingWPA2Lab/assets/131496256/0a4f0847-8700-46ac-bb0e-047f1191e6f7">
 <br>
 <br>
-
+After running the command we were able to obtain the keys in seconds. (Keys are blocked out to maintain lab integrity)
 <img align="center" alt="Coding" width="400" src="https://github.com/cabby1234/HackingWPA2Lab/assets/131496256/9a7ff105-3b76-4ec3-97ae-c80ec7cb94fc">
 
 
