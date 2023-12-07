@@ -17,8 +17,7 @@ This project revolves around the exploration and exploitation of a WPA2 network,
 
 <p align="left">
 Launch the utility: <br/>
-<img src="![WHL2](https://github.com/cabby1234/HackingWPA2Lab/assets/131496256/478d2228-1ee3-4eff-af2f-27d767eaa3c4)
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <!--
