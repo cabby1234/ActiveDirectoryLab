@@ -13,9 +13,9 @@ This project revolves around the exploration and exploitation of a WPA2 network,
 
 - <b>Kali Linux virtual machine ran on VMware.</b>
 
-<h2>Program walk-through:</h2>
+<h2>Lab walk-through:</h2>
 
-<p align="center">
+<p align="left">
 Launch the utility: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
