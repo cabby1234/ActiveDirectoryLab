@@ -24,10 +24,15 @@ Kill processes and put our WIFI interface in monitor mode: <br/>
 <img align="center" alt="Coding" width="400" src="https://github.com/cabby1234/HackingWPA2Lab/assets/131496256/de076149-e800-4c3c-9138-876a1df4bf30">
 <br>
 <br>
- <br>
+<br>
 The capture of our WPA handshake pulled up in Wireshark:
- <br>
+<br>
 <img align="center" alt="Coding" width="400" src="https://github.com/cabby1234/HackingWPA2Lab/assets/131496256/bb486f75-80e9-466b-afb4-bba0030f9206">
+<br>
+<br>
+<br>
+<img align="center" alt="Coding" width="400" src="https://github.com/cabby1234/HackingWPA2Lab/assets/131496256/0a4f0847-8700-46ac-bb0e-047f1191e6f7">
+
 
 
 <!--
@@ -35,7 +40,8 @@ The capture of our WPA handshake pulled up in Wireshark:
 - text in red
 + text in green
 ! text in orange
-# text in gray
+# text in gray![WHL5](https://github.com/cabby1234/HackingWPA2Lab/assets/131496256/0a4f0847-8700-46ac-bb0e-047f1191e6f7)
+
 @@ text in purple (and bold)@@
 ```
 --!>
