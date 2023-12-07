@@ -26,6 +26,7 @@ Kill processes and put our WIFI interface in monitor mode: <br/>
 <br>
  <br>
 The capture of our WPA handshake pulled up in Wireshark:
+ <br>
 <img align="center" alt="Coding" width="400" src="https://github.com/cabby1234/HackingWPA2Lab/assets/131496256/bb486f75-80e9-466b-afb4-bba0030f9206">
 
 
