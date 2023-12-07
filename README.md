@@ -1,4 +1,4 @@
-<h1>Active Directory Home Lab</h1>
+<h1>Hacking WPA/WPA2</h1>
 
 <h2>Description</h2>
 Project consists of exploiting a WPA2 network using the the aircrack-ng toolset. This is in preparation for the OWSP exam I plan on taking in the next couple of weeks.
