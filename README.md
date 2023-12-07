@@ -6,8 +6,8 @@ This project revolves around the exploration and exploitation of a WPA2 network,
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Aircrack-ng</b> 
+- <b>Wireshark</b>
 
 <h2>Environments Used </h2>
 
