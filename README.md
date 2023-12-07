@@ -34,6 +34,11 @@ This project revolves around the exploration and exploitation of a WPA2 network,
  Aircrack-ng command to obtain the wireless keys, using the rockyou.txt wordlist:
  <br>
 <img align="center" alt="Coding" width="400" src="https://github.com/cabby1234/HackingWPA2Lab/assets/131496256/0a4f0847-8700-46ac-bb0e-047f1191e6f7">
+<br>
+<br>
+
+<img align="center" alt="Coding" width="400" src="https://github.com/cabby1234/HackingWPA2Lab/assets/131496256/9a7ff105-3b76-4ec3-97ae-c80ec7cb94fc">
+
 
 
 
@@ -42,8 +47,6 @@ This project revolves around the exploration and exploitation of a WPA2 network,
 - text in red
 + text in green
 ! text in orange
-# text in gray![WHL5](https://github.com/cabby1234/HackingWPA2Lab/assets/131496256/0a4f0847-8700-46ac-bb0e-047f1191e6f7)
-
 @@ text in purple (and bold)@@
 ```
 --!>
