@@ -1,7 +1,7 @@
 <h1>Hacking WPA/WPA2</h1>
 
 <h2>Description</h2>
-This project revolves around the exploitation of a WPA2 network, using the capabilities of the aircrack-ng toolset. I am diving into the intricacies of WPA2 protocols, aiming to gain insights and hands-on experience in identifying potential vulnerabilities and weaknesses within the network infrastructure. The aircrack-ng toolset, known for its effectiveness in penetrating wireless security, is vital in this pursuit. If you would like to participate in this lab you can find all the details on https://wifichallengelab.com/.
+OWASP Juice Shop is a project that serves as a great platform for testing web application security. It incorporates a wide range of security vulnerabilities inspired by real-world scenarios, making it an ideal playground for penetration testers. The application is built on modern web technologies and includes challenges that cover aspects such as injection attacks, cross-site scripting (XSS), broken authentication, and more. I have highlighted a few of the vulnerabilites I exploited in the slideshow; along with my overall experience working through Juice Shop.
 <br />
 
 <h2>Tools Used</h2>
