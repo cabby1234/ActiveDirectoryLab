@@ -11,7 +11,7 @@ This project revolves around the exploitation of a WPA2 network, using the capab
 
 <h2>Environments Used </h2>
 
-- <b>Kali Linux virtual machine ran on VMware.</b>
+- <b>Kali Linux virtual machine ran on a virtual machine.</b>
 
 <h2>Lab walk-through:</h2>
 
